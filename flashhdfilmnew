@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://easyplex.cf/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.falshnew.hdfilmnew",
+    "pushUpdate" : "on",
+    "newPackage" : "com.prime.hdfilmnew",
     "NetworkAds" : "applovin"
 }
