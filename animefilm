@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "Applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.animenew.hdfilm",
-
-	"apiUrl" : "https://albkino24.xyz/api/"
-
-
-
+    "apiUrl" : "https://albkino24.xyz/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.animenew.hdfilm",
+    "NetworkAds" : "applovin"
 }
