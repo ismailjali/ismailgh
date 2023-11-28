@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://update.zuzutv.info/api/",
+    "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
     "pushUpdate" : "off",
     "newPackage" : "com.anime.tvfilm",
     "NetworkAds" : "applovin"
