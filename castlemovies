@@ -1,0 +1,6 @@
+{
+    "apiUrl" : "https://easyplex.cf/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.castle.tvfilm",
+    "NetworkAds" : "applovin"
+}
