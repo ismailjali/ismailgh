@@ -1,0 +1,6 @@
+{
+    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.Dramacool.tvfilm",
+    "NetworkAds" : "applovin"
+}
