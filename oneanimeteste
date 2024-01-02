@@ -1,6 +1,6 @@
 {	
+apiUrl	"https://hdmovies.freehdmoviesonline.xyz/api/"
 NetworkAds	"applovin"
 newAppStatus	"off"
 appPackage	"com.anime.tvanime"
-apiUrl	"https://hdmovies.freehdmoviesonline.xyz/api/"
 }
