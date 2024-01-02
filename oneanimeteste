@@ -1,6 +1,7 @@
-{	
-NetworkAds	"applovin"
-newAppStatus	"on"
-appPackage	"com.anime.tvanime"
-apiUrl	"https://hdmovies.freehdmoviesonline.xyz/api/"
+ {
+
+	"NetworkAds" : "applovin",
+	"newAppStatus" : "off",
+	"appPackage" : "com.prime.hdfilmnew",
+	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
 }
