@@ -1,7 +1,6 @@
  {
-
 	"NetworkAds" : "applovin",
 	"newAppStatus" : "off",
-	"appPackage" : "com.prime.hdfilmnew",
+	"appPackage" : "com.anime.tvanime",
 	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
 }
