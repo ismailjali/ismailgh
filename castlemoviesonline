@@ -1,0 +1,6 @@
+ {
+	"NetworkAds" : "applovin",
+	"newAppStatus" : "off",
+	"appPackage" : "com.castle.moviesonline",
+	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
+}
