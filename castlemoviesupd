@@ -1,6 +1,6 @@
  {
 	"NetworkAds" : "applovin",
 	"newAppStatus" : "off",
-	"appPackage" : "com.castle.tvfilm",
+	"appPackage" : "com.castle.tvmovies",
 	"apiUrl" : "https://albkino24.xyz/api/"
 }
