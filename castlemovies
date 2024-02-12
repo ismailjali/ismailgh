@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.Dramacool.tvfilm",
+	"appPackage" : "com.castle.tvmovies",
 
 	"apiUrl" : "https://admin.cinemart.uk/api/"
 
