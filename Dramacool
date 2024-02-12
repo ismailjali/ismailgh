@@ -1,6 +1,19 @@
- {
+{
+
+
+
 	"NetworkAds" : "applovin",
+
+
+
 	"newAppStatus" : "off",
+
+
+
 	"appPackage" : "com.Dramacool.tvfilm",
-	"apiUrl" : "https://albkino24.xyz/api/"
+
+	"apiUrl" : "https://admin.cinemart.uk/api/"
+
+
+
 }
