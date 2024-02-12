@@ -1,6 +1,19 @@
- {
+{
+
+
+
 	"NetworkAds" : "applovin",
+
+
+
 	"newAppStatus" : "off",
+
+
+
 	"appPackage" : "com.Dramacool.tvfilm",
-	"apiUrl" : "https://admin.cinemart.uk/"
+
+	"apiUrl" : "https://admin.cinemart.uk/api/"
+
+
+
 }
