@@ -1,5 +1,19 @@
-	
-NetworkAds	"applovin"
-newAppStatus	"off"
-appPackage	"com.heyhalo.dramacool"
-apiUrl	"https://albkino24.xyz/api/"
+{
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.Dramacool.tvfilm",
+
+	"apiUrl" : "https://admin.cinemart.uk/api/"
+
+
+
+}
