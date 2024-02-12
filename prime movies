@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://albkino24.xyz/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.prime.hdfilmnew",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.Dramacool.tvfilm",
+
+	"apiUrl" : "https://admin.cinemart.uk/api/"
+
+
+
 }
