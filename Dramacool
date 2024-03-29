@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.Dramacool.tvfilm",
+	"appPackage" : "com.dramacool.kdramaonline",
 
 	"apiUrl" : "https://hdmovies.aicryptogainer.com/api/"
 
