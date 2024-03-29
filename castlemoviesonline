@@ -10,7 +10,7 @@
 
 
 
-	"appPackage" : "com.castle.moviesonline",
+	"appPackage" : "com.castle.tvmovies",
 
 	"apiUrl" : "https://hdmovies.aicryptogainer.com/api/"
 
