@@ -6,13 +6,13 @@
 
 
 
-	"newAppStatus" : "on",
+	"newAppStatus" : "off",
 
 
 
 	"appPackage" : "com.castle.tvmovies",
 
-	"apiUrl" : "https://hdmovies.aicryptogainer.com/api/"
+	"apiUrl" : "https://admin.cinemart.uk/api/"
 
 
 
