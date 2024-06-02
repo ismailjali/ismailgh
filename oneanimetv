@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.dramacool.kdramaonline",
-
-	"apiUrl" : "https://hdmovies.aicryptogainer.com/api/"
-
-
-
+    "apiUrl" : "https://hdmovies.aicryptogainer.com/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.anime.tvanime",
+    "NetworkAds" : "applovin"
 }
